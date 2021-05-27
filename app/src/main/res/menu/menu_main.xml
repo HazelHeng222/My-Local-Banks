@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/WebSelect"
+        android:orderInCategory="100"
+        android:title="@string/itemWeb" />
+    <item
+        android:id="@+id/ContactSelect"
+        android:orderInCategory="101"
+        android:title="@string/itemCall" />
+
+    <item
+        android:id="@+id/FavSelect"
+        android:orderInCategory="103"
+        android:title="@string/itemFav" />
+
+</menu>
